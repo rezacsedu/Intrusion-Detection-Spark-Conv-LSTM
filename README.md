@@ -1,4 +1,4 @@
-# A Scalable and Hybrid Deep Learning-based Intrusion Detection System using Convolutional-LSTM Network
+# A Scalable Deep Learning-based Intrusion Detection System using Conv-LSTM Network
 Intrusion detection system with Apache Spark and deep learning
 
 # Why and how to use this repository? 
